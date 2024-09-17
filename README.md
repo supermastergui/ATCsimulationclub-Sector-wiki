@@ -6,4 +6,6 @@
 
 想使用免费版扇区？请至空管模拟机交流群：949076443
 
+请认准wiki唯一地址[https://github.com/supermastergui/ATCsimulationclub-Sector-wiki/wiki](https://github.com/supermastergui/ATCsimulationclub-Sector-wiki/wiki)
+
 **注：以下教程均为订阅扇区作为演示，不保证适用于免费版扇区。**
