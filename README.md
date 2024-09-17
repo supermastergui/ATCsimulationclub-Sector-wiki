@@ -1,6 +1,6 @@
-*Welcome to the ATCsimulationclub Custom Sector wiki!*
+*Welcome to the ATCsimulationclub Sector wiki!*
 
-**欢迎来到空管模拟机交流群原创订阅扇区的官方wiki!**
+**欢迎来到空管模拟机交流群原创扇区的官方wiki!**
 
 想订阅扇区？请至[https://mbd.pub/o/bread/Zpqcmp9w](https://mbd.pub/o/bread/Zpqcmp9w)
 
